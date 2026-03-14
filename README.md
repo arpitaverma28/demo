@@ -1,4 +1,4 @@
 # demo
 my first reporitory
 <br>
-Author - Rashi
+Author - Rashi verma
